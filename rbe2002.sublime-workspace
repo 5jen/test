@@ -1,0 +1,824 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getCurrentPos"
+			],
+			[
+				"get",
+				"getCurrentPos"
+			],
+			[
+				"la",
+				"lastEncoderSample"
+			],
+			[
+				"fr",
+				"frontWallDistance"
+			],
+			[
+				"at",
+				"atCliff"
+			],
+			[
+				"send",
+				"sendHb"
+			],
+			[
+				"go",
+				"goVelocity"
+			],
+			[
+				"ri",
+				"rightIsOpen"
+			],
+			[
+				"re",
+				"rearIrValue"
+			],
+			[
+				"fri",
+				"frontIrValue"
+			],
+			[
+				"rear",
+				"reat_ir_pin"
+			],
+			[
+				"rea",
+				"reat_ir_pin"
+			],
+			[
+				"f",
+				"frontWallDistance"
+			],
+			[
+				"last",
+				"lastPing"
+			],
+			[
+				"ce",
+				"checkCliff"
+			],
+			[
+				"g",
+				"goVelocity"
+			],
+			[
+				"si",
+				"sideWallDistance"
+			],
+			[
+				"sa",
+				"SAFE_DISTANCE"
+			],
+			[
+				"lin",
+				"linePassed"
+			],
+			[
+				"S",
+				"SUPPLY_TO_MAIN"
+			],
+			[
+				"dg",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"LE",
+				"LED_ALERT_PIN"
+			],
+			[
+				"di",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"tur",
+				"turnLeft"
+			],
+			[
+				"read",
+				"readLineSensors"
+			],
+			[
+				"dr",
+				"dropArm"
+			],
+			[
+				"TUR",
+				"turnRight"
+			],
+			[
+				"BT",
+				"BT_PIN"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"IN",
+				"INPUT_PULLUP"
+			],
+			[
+				"line",
+				"linePassed"
+			],
+			[
+				"supp",
+				"SUPPLY_TO_MAIN"
+			],
+			[
+				"li",
+				"linePassed"
+			],
+			[
+				"turn_",
+				"TURN_180"
+			],
+			[
+				"dri",
+				"driveState"
+			],
+			[
+				"REVER",
+				"REVERSE3"
+			],
+			[
+				"to",
+				"TO_SUPPLY"
+			],
+			[
+				"turn",
+				"turnComplete"
+			],
+			[
+				"drive",
+				"driveState"
+			],
+			[
+				"tu",
+				"turnComplete"
+			],
+			[
+				"G",
+				"GO_FURTHER"
+			],
+			[
+				"sy",
+				"supply_destination"
+			],
+			[
+				"tun",
+				"turnComplete"
+			],
+			[
+				"T",
+				"TO_STORAGE"
+			],
+			[
+				"A",
+				"ARM_STOP"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"mili",
+				"millis	Arduino millis()"
+			],
+			[
+				"TU",
+				"TURN_90"
+			],
+			[
+				"drv",
+				"driveState"
+			],
+			[
+				"bu",
+				"BUMPPER_PIN"
+			],
+			[
+				"des",
+				"destination"
+			],
+			[
+				"TO",
+				"TO_SUPPLY"
+			],
+			[
+				"RE",
+				"REVERSE2"
+			],
+			[
+				"arm",
+				"ArmState"
+			],
+			[
+				"FR",
+				"FORWARD"
+			],
+			[
+				"driv",
+				"driveState"
+			],
+			[
+				"TURN",
+				"TURN_180"
+			],
+			[
+				"wr",
+				"wristState"
+			],
+			[
+				"gri",
+				"gripperState"
+			],
+			[
+				"ar",
+				"ArmState"
+			],
+			[
+				"dire",
+				"direction"
+			],
+			[
+				"wrist",
+				"wristDown"
+			],
+			[
+				"wrs",
+				"wristUp"
+			],
+			[
+				"ST",
+				"STOP"
+			],
+			[
+				"I",
+				"INPUT_PULLUP"
+			],
+			[
+				"back",
+				"backUp"
+			],
+			[
+				"for",
+				"FORWAERD"
+			],
+			[
+				"B",
+				"Bluetooth"
+			],
+			[
+				"bt",
+				"btStop"
+			],
+			[
+				"To",
+				"TO_STORAGE"
+			],
+			[
+				"stop",
+				"STOP"
+			],
+			[
+				"pro",
+				"progressState"
+			],
+			[
+				"R",
+				"R_TURN"
+			],
+			[
+				"L",
+				"L_TURN"
+			],
+			[
+				"incre",
+				"increment_linePassed"
+			],
+			[
+				"incr",
+				"increment_linePassed"
+			],
+			[
+				"is",
+				"isOnLine"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"le",
+				"left_on_line"
+			],
+			[
+				"left",
+				"left_on_line"
+			],
+			[
+				"RIGH",
+				"RIGHT_SENSOR_PIN"
+			],
+			[
+				"DE",
+				"DEGREE_90"
+			],
+			[
+				"D",
+				"DEGREE_90"
+			],
+			[
+				"l_",
+				"l_tick"
+			],
+			[
+				"r_",
+				"r_tick"
+			],
+			[
+				"l",
+				"liftArm"
+			],
+			[
+				"dela",
+				"delay	Arduino delay()"
+			],
+			[
+				"lo",
+				"loop	Arduino loop"
+			],
+			[
+				"enc",
+				"encoder_error"
+			],
+			[
+				"e",
+				"encoder_error"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"ana",
+				"analogRead	Arduino analogRead"
+			],
+			[
+				"analog",
+				"analogRead	Arduino analogRead"
+			],
+			[
+				"a",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"rig",
+				"right_on_line"
+			],
+			[
+				"sens",
+				"sensorPin"
+			],
+			[
+				"prin",
+				"print"
+			],
+			[
+				"ti",
+				"Timer1"
+			],
+			[
+				"is_",
+				"is_period_ended"
+			],
+			[
+				"calculate",
+				"calculate_f"
+			],
+			[
+				"print",
+				"print_period"
+			],
+			[
+				"aa",
+				"attachInterrupt	Arduino attachInterrupt()"
+			],
+			[
+				"pr",
+				"program"
+			],
+			[
+				"in",
+				"interrupt"
+			],
+			[
+				"set",
+				"setCursor"
+			],
+			[
+				"pe",
+				"is_period_changed"
+			],
+			[
+				"P",
+				"PERIOD_PIN"
+			],
+			[
+				"digit",
+				"digitalRead	Arduino digitalRead"
+			],
+			[
+				"cha",
+				"change_period"
+			],
+			[
+				"count",
+				"count_pulses"
+			],
+			[
+				"pin",
+				"pinMode	Arduino pinMode"
+			],
+			[
+				"digital",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"digita",
+				"digitalWrite	Arduino digitalWrite"
+			],
+			[
+				"se",
+				"setup	Arduino setup"
+			],
+			[
+				"analg",
+				"analogWrite	Arduino analogWrite"
+			],
+			[
+				"c",
+				"current_e"
+			],
+			[
+				"co",
+				"completion_times"
+			],
+			[
+				"comp",
+				"completion_times"
+			],
+			[
+				"add",
+				"add_store"
+			],
+			[
+				"com",
+				"completion_times"
+			],
+			[
+				"tem",
+				"tempShpr"
+			],
+			[
+				"item",
+				"item_name"
+			],
+			[
+				"i",
+				"iname"
+			],
+			[
+				"num",
+				"numOfStores"
+			],
+			[
+				"new",
+				"newStore"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"go_",
+				"go_to"
+			],
+			[
+				"fir",
+				"first_store"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.ino",
+			"settings":
+			{
+				"buffer_size": 2768,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Definitions.h",
+			"settings":
+			{
+				"buffer_size": 655,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/wuzhizhen/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/DD2D6C48-E5C0-4E74-BC57-A1709635CE01/RegulatedMotor/RegulatedMotor.h",
+		"/Users/wuzhizhen/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/DD2D6C48-E5C0-4E74-BC57-A1709635CE01/RegulatedMotor/RegulatedMotor.cpp",
+		"/Users/wuzhizhen/Desktop/final.inp",
+		"/Users/wuzhizhen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/wuzhizhen/Desktop/test.cp",
+		"/Users/wuzhizhen/Desktop/hw4_with_delay.ino",
+		"/Users/wuzhizhen/Desktop/lab4-prelab",
+		"/Users/wuzhizhen/Desktop/prog5/main.h",
+		"/Users/wuzhizhen/Desktop/prog5/add_node.cpp",
+		"/Users/wuzhizhen/Desktop/prog5/main.cpp",
+		"/Users/wuzhizhen/Desktop/lab5/main.cpp",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/Makefile",
+		"/Users/wuzhizhen/Desktop/lab5/Makefile",
+		"/Users/wuzhizhen/Desktop/lab5/main.h",
+		"/Users/wuzhizhen/Desktop/prog4/edit_node.cpp",
+		"/Users/wuzhizhen/Desktop/prog4/main.h",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/main.h",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/pop.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/prog3.dat",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/insert.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/print.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/print_log.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/enqueue.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/main.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/cpu.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/io.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog3/empty.c",
+		"/Users/wuzhizhen/Documents/cs2303/prog2/init.c",
+		"/Users/wuzhizhen/Desktop/mian.c",
+		"/Users/wuzhizhen/Desktop/main.h",
+		"/Users/wuzhizhen/Desktop/::init"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"current_l",
+			"getCurrentPos",
+			"CurrentPos",
+			"currentPos",
+			"wasAt",
+			"isAt",
+			"Bumpper",
+			"To_Tube",
+			"GOstra",
+			"GO",
+			"linetr",
+			"progress",
+			"wrist",
+			"progress",
+			"STOP",
+			"turn()",
+			"turn",
+			"arm",
+			"servo",
+			"servo arm",
+			"first_tube",
+			"turnleft",
+			"l_tur",
+			"bt",
+			"pulses = 0",
+			"step",
+			"print_tree",
+			"print_list",
+			"rootNode",
+			"at",
+			"time",
+			"add",
+			"insert_shopper",
+			"enqueue",
+			"print",
+			"insert",
+			"getStorePos",
+			"getStoreCount",
+			"node_ptr",
+			"llptr",
+			"print(",
+			"print",
+			"id",
+			"_en",
+			"c_time",
+			"queue_head_process",
+			"is_cpu_occupied",
+			"cpu_timeslice_completion_time",
+			"global_time",
+			"global_timm",
+			"global_time",
+			"}\n",
+			"global_time\n",
+			"\n",
+			"global_time",
+			"global_timm",
+			"global_time",
+			"(",
+			"!\");\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.ino",
+					"settings":
+					{
+						"buffer_size": 2768,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 219.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Definitions.h",
+					"settings":
+					{
+						"buffer_size": 655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								464,
+								464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Desktop":
+	{
+		"height": 94.0
+	},
+	"output.exec":
+	{
+		"height": 187.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
